@@ -57,3 +57,4 @@ if result == "Peter Jang"
 else
   puts "F"
 end
+#done

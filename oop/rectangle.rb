@@ -14,6 +14,8 @@ class Rectangle
   end
 end
 
+#done 
+
 # Driver code - don't touch anything below this line.
 puts "TESTING the Rectange class..."
 puts
