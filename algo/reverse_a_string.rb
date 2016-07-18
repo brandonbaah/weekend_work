@@ -1,9 +1,18 @@
-# Complete the method called reverse_a_string that accepts a string as a parameter and 
+# Complete the method called reverse_a_string that accepts a string as a parameter and
 # returns the reverse. The one caveat: Don't use the reverse method that already
 # comes with Ruby!
 
+class Reverse
 def reverse_a_string(string)
+  b = string.length - 1
 
+   while b >= 0
+
+    print  string[b]
+
+    b = b-1
+
+  end
 end
 
 # Driver code - don't touch anything below this line.
